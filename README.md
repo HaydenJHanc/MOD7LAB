@@ -4,10 +4,10 @@
 
 Columbia is a town in south-central Kentucky. Due to the CUmberland Parkway, Columbia has seen a modest amount of development compared to its neighboring towns of Burkesville and Campbellsville. Columiba is home to Lindsey Wilson College, a private liberal arts college. 
 
-![Caption of map](map.jpg)     
+![Columbia, KY](Columbia.png)     
 *Columbia, KY*
 
-[Link to high-resolution version](hi-res.pdf)    
+[Link to high-resolution version](Columbia.pdf)    
 
 Basemap made from 1957 USGS Topographical Map
 3D points from KyFromAbove Elevation Services
