@@ -2,7 +2,7 @@
 ## 37.1028°N 85.3060°W
 ## Adair County, Kentucky
 
-Columbia is a town in south-central Kentucky. Due to the CUmberland Parkway, Columbia has seen a modest amount of development compared to its neighboring towns of Burkesville and Campbellsville. Columiba is home to Lindsey Wilson College, a private liberal arts college. 
+Columbia is a town in south-central Kentucky. Due to the Cumberland Parkway, Columbia has seen a modest amount of development compared to its neighboring towns of Burkesville and Campbellsville. Columiba is home to Lindsey Wilson College, a private liberal arts college. 
 
 ![Columbia, KY](Columbia.png)     
 *Columbia, KY*
